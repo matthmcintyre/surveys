@@ -1,17 +1,16 @@
 {
   "version": 1,
-  "locale": "en_US.UTF-8",
+  "locale": "en_US",
+  "platform": "4.1.2",
   "metadata": {
     "appmode": "static",
-    "entrypoint": "index"
+    "primary_rmd": null,
+    "primary_html": "index.html",
+    "content_category": "site",
+    "has_parameters": false
   },
+  "packages": null,
   "files": {
-    "requirements.txt": {
-      "checksum": "209b53bd3270b43ccb9f9ff4ec1fa052"
-    },
-    ".DS_Store": {
-      "checksum": "194577a7e20bdcc7afbb718f502c134c"
-    },
     "Survey Docs 16JUL2024/12-Month Follow-up Survey [avastin_12mo].html": {
       "checksum": "e1f3dd2bdf943af712d7907a73ecd6b0"
     },
